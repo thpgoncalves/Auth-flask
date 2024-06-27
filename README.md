@@ -1,2 +1,2 @@
 # Auth-flask
-An example of a API develop with Flask responsible to do authentications working with databases working with an ORM.
+An example of an API developed with Flask responsible for handling authentication and working with databases using an ORM
